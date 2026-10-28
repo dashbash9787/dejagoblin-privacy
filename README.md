@@ -23,10 +23,6 @@ You may request access to, correction of, or deletion of your personal data held
 
 If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at earlyhourssoftware@gmail.com.
 
-**Artificial Intelligence**
-
-The Application uses Artificial Intelligence (AI) technologies to enhance user experience and provide certain features. The AI components may process user data to deliver personalized content, recommendations, or automated functionalities. All AI processing is performed in accordance with this privacy policy and applicable laws. If you have questions about the AI features or data processing, please contact the Service Provider.
-
 The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
 
 For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information the Service Provider requests will be retained and used as described in this privacy policy.
